@@ -25,6 +25,8 @@
 	"flag C7",
 	"flag D7",
 	"clear E7",
-	"flag F7"
+	"flag F7",
+	"flag C8",
+	"end"
   ]
 }
